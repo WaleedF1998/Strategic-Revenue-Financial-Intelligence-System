@@ -1,2 +1,1 @@
-# Strategic-Revenue-Financial-Intelligence-System
-Integrated financial intelligence framework modeling SaaS unit economics, cohort retention, and Monte Carlo growth simulations.
+This project has moved. See the active version here: https://github.com/WaleedF1998/financial-verification-mvp
